@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #E6E6E6;
+  text-align: center;
+}
+.header img {
+  padding: 1rem 0 0 0;
+}
+.header h1 {
+  line-height: 3rem;
+}
+
+.titulos {
+  color: #005677;
+  background-color: #CACACA;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+
+h3.titulos {
+  line-height: 1.6rem;
+  padding: 0 0 0 1rem;
+}
+
+.datos ul li {
+  line-height: 1.5rem;
+}
+.datos ul li span {
+  font-weight: 600;
+  font-style: italic;
+}
+
+dl {
+  padding: 0 0 0 1.5rem;
+}
+dl dt {
+  font-weight: 600;
+}
+
+.footer {
+  background: #005677;
+  color: #fff;
+  font-weight: 600;
+  line-height: 2.5rem;
+  text-align: center;
+}
+.footer * {
+  margin: 0 0.5rem;
+  vertical-align: middle;
+}
+.footer a {
+  margin: 0;
+}
+.footer a img {
+  margin-top: -4px;
+}/*# sourceMappingURL=estilos.css.map */
